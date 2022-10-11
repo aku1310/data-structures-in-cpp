@@ -9,3 +9,4 @@
 5. [Binary Search Trees](./5.%20Binary%20Search%20Trees/)
 6. [Graphs](./6.%20Graphs/)
 7. [Bit Manipulation](./7.%20Bit%20Manipulation/)
+8. [Tries](./8.%20Tries/)
