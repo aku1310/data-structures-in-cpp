@@ -10,3 +10,5 @@
 6. [Graphs](./6.%20Graphs/)
 7. [Bit Manipulation](./7.%20Bit%20Manipulation/)
 8. [Tries](./8.%20Tries/)
+9. [Dynamic Programming](./9.%20Dynamic%20Programming/)
+10. [Greedy Algorithms](./10.%20Greedy%20Algorithms/)
