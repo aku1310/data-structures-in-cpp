@@ -12,3 +12,4 @@
 8. [Tries](./8.%20Tries/)
 9. [Dynamic Programming](./9.%20Dynamic%20Programming/)
 10. [Greedy Algorithms](./10.%20Greedy%20Algorithms/)
+11. [Sliding Window](./11.%20Sliding%20Window/)
